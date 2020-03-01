@@ -67,3 +67,12 @@ body {
 	background-color: #2FBE70;
 	border: none;
 }
+
+#checkout-success {
+	display: none;
+}
+
+#checkout-success h2,
+#checkout-success h4 {
+	color: green;
+}
