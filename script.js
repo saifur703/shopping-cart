@@ -135,5 +135,5 @@ checkout.addEventListener('click', function() {
   // document.getElementById('cart-area').style.display = 'none';
 
   // w3school scroll to top
-  window.scrollTo(0, 100);
+  window.scrollTo(0, 0);
 });
